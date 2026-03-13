@@ -14,6 +14,7 @@
 - [Repository Structure](#repository-structure)
 - [Project Context](#project-context)
 
+
 ## 📖 Overview
 
 Cook No Rubbish is a Human Computer Interaction (HCI) group project focused on reducing food waste by helping users generate recipes based on ingredients they already have at home.
