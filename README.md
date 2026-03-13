@@ -5,14 +5,14 @@
 # Cook No Rubbish – HCI Project
 
 ## Table of Contents
-- [Overview](#overview)
-- [Design Goals](#design-goals)
-- [Design Process](#design-process)
-- [My Contribution](#my-contribution)
-- [Key Interface Screens](#key-interface-screens)
-- [Design Tools](#design-tools)
-- [Repository Structure](#repository-structure)
-- [Project Context](#project-context)
+- [Overview](#-overview)
+- [Design Goals](#-design-goals)
+- [Design Process](#-design-process)
+- [My Contribution](#-my-contribution)
+- [Key Interface Screens](#-key-interface-screens)
+- [Design Tools](#-design-tools)
+- [Repository Structure](#-repository-structure)
+- [Project Context](#-project-context)
 
 
 ## 📖 Overview
